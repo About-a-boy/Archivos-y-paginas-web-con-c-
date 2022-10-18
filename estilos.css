@@ -1,0 +1,5 @@
+table{width:80%; border-collapse:collapse;}
+table,th,td{border:1px solid;font-family:Tahoma;text-align:center}
+th{text-align:center;font-weight:bold;font-size:20px;}
+tr.afiliado{background-color:rgb(191,255,207)}
+tr.no_afiliado{background-color:rgb(255,144,86)}

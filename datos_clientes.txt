@@ -1,0 +1,3 @@
+10;LASSO;LUIS;3111234567;luis_lasso@gmail.com
+20;MENA;PAOLA;3001234567;paola_mena@hotmail.com
+30;GARCIA;JUAN;312123456;juan_garcia@gmail.com
